@@ -1,0 +1,271 @@
+[
+  {
+    "_id": "1",
+    "title": "Verantwortlicher",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Verantwortlicher im Sinne der Datenschutz-Grundverordnung (DSGVO) für diese Website ist:"
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Labrity\nInhaber: Andreas Tonn\nSessendrupweg 54\n48161 Münster\nDeutschland\nE-Mail: labrity@web.de, tonn_andreas@web.de\nTelefon: +49 174 345 44 19"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "2",
+    "title": "Allgemeine Hinweise",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Der Schutz Ihrer personenbezogenen Daten ist uns ein wichtiges Anliegen. Wir verarbeiten personenbezogene Daten nur, soweit dies für den Betrieb dieser Website, die Bearbeitung Ihrer Anfragen und die Erbringung unserer Leistungen erforderlich ist."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Diese Datenschutzerklärung informiert Sie darüber, welche Daten wir erheben, zu welchem Zweck wir sie verarbeiten und welche Rechte Ihnen als betroffener Person zustehen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "3",
+    "title": "Hosting über Vercel",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Diese Website wird gehostet von Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, USA. Beim Aufruf unserer Website werden durch Vercel automatisch technische Zugriffsdaten erhoben, darunter IP-Adresse, Browsertyp und -version, Betriebssystem, Referrer-URL, Datum und Uhrzeit des Zugriffs sowie aufgerufene Seiten. Diese Daten sind für den sicheren und zuverlässigen Betrieb der Website technisch notwendig."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Es kann zu einer Übermittlung dieser Daten in die USA kommen. Vercel hat Standardvertragsklauseln (SCC) gemäß Art. 46 Abs. 2 lit. c DSGVO implementiert, um ein angemessenes Datenschutzniveau bei internationalen Datenübermittlungen sicherzustellen. Weitere Informationen finden Sie in der Datenschutzerklärung von Vercel unter vercel.com/legal/privacy-policy."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Rechtsgrundlage für diese Verarbeitung ist Art. 6 Abs. 1 lit. f DSGVO aufgrund unseres berechtigten Interesses an einem technisch sicheren und stabilen Betrieb der Website."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "4",
+    "title": "Kontaktformular",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Wenn Sie uns über das Kontaktformular auf unserer Website kontaktieren, erheben wir folgende personenbezogene Daten: Vorname, Nachname, E-Mail-Adresse, Telefonnummer / WhatsApp sowie den Inhalt Ihrer Nachricht."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Dieselben Daten erheben wir auch, wenn Sie unseren Projekt-Kalkulator (Quiz) auf der Website nutzen. Zusätzlich zu Vorname, Nachname, E-Mail-Adresse und Telefonnummer werden hierbei Ihre Antworten auf die Fragen zu Ihrem Projektvorhaben verarbeitet, um Ihre Anfrage besser einschätzen zu können."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Diese Daten werden ausschließlich zur Bearbeitung Ihrer Anfrage und zur Kommunikation mit Ihnen verwendet. Eine Weitergabe an Dritte erfolgt nicht, es sei denn, dies ist zur Bearbeitung Ihrer Anfrage erforderlich oder wir sind gesetzlich dazu verpflichtet."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit die Anfrage im Zusammenhang mit einem (vor-)vertraglichen Verhältnis steht, sowie Art. 6 Abs. 1 lit. f DSGVO aufgrund unseres berechtigten Interesses an der Beantwortung von Kontaktanfragen in allen übrigen Fällen."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "5",
+    "title": "Übermittlung an Telegram",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Um Ihre Anfragen schnellstmöglich beantworten zu können, werden über das Kontaktformular oder den Projekt-Kalkulator eingereichte Nachrichten über die Telegram Bot API an Telegram weitergeleitet. Betreiber von Telegram ist die Telegram Messenger Inc. bzw. Telegram FZ-LLC."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Im Rahmen dieser Weiterleitung werden Ihr Name, Ihre Kontaktdaten und der Inhalt Ihrer Nachricht an die Server von Telegram übermittelt. Diese Server können sich außerhalb der Europäischen Union befinden. Für Drittlandübermittlungen stützt sich Telegram nach eigenen Angaben auf Standardvertragsklauseln. Bitte übermitteln Sie über das Kontaktformular keine besonders sensiblen personenbezogenen Daten (z. B. Gesundheitsdaten, Finanzdaten)."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Weitere Informationen zur Datenverarbeitung durch Telegram finden Sie unter: telegram.org/privacy. Rechtsgrundlage ist Ihre ausdrückliche Einwilligung (Art. 6 Abs. 1 lit. a DSGVO), die Sie durch Bestätigung der Datenschutzerklärung im Kontaktformular bzw. Projekt-Kalkulator erteilen, ergänzt durch Art. 6 Abs. 1 lit. f DSGVO aufgrund unseres berechtigten Interesses an einer effizienten und zeitnahen Kommunikation. Sie können Ihre Einwilligung jederzeit mit Wirkung für die Zukunft widerrufen (siehe Abschnitt 9)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "6",
+    "title": "Rechtsgrundlagen der Verarbeitung",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Die Verarbeitung personenbezogener Daten auf dieser Website erfolgt auf folgenden Rechtsgrundlagen:"
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "– Art. 6 Abs. 1 lit. a DSGVO: Einwilligung der betroffenen Person (z. B. Zustimmung zur Datenschutzerklärung im Kontaktformular)\n– Art. 6 Abs. 1 lit. b DSGVO: Erfüllung eines Vertrags oder Durchführung vorvertraglicher Maßnahmen\n– Art. 6 Abs. 1 lit. f DSGVO: Berechtigte Interessen des Verantwortlichen (sicherer Websitebetrieb, Beantwortung von Kontaktanfragen)"
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Für die Anzeige der Website in Ihrer bevorzugten Sprache sowie zur vorübergehenden Zwischenspeicherung bereits eingegebener Formulardaten verwenden wir den lokalen Speicher (Local Storage) bzw. Sitzungsspeicher (Session Storage) Ihres Browsers. Diese Daten verbleiben auf Ihrem Endgerät und werden nicht an uns übertragen, es sei denn, Sie senden ein Formular ab. Rechtsgrundlage hierfür ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an einer benutzerfreundlichen Darstellung der Website)."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "7",
+    "title": "Cookies und Analyse-Tools",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Diese Website verwendet die Consent-Management-Plattform (CMP) von Usercentrics, um Ihre Einwilligung zum Einsatz von Cookies und vergleichbaren Technologien einzuholen und zu verwalten, bevor diese aktiv werden. Beim ersten Aufruf der Website wird Ihnen ein Cookie-Banner angezeigt, über das Sie der Nutzung optionaler Cookies zustimmen, sie ablehnen oder individuell anpassen können."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Wir nutzen Vercel Analytics (Vercel Inc.), um anonymisierte, aggregierte Nutzungsstatistiken (z. B. Seitenaufrufe) zu erheben und die Website zu verbessern. Vercel Analytics wird erst geladen und aktiv, nachdem Sie der entsprechenden Kategorie im Cookie-Banner zugestimmt haben."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Ihre Auswahl wird lokal gespeichert und kann jederzeit über den Cookie-Banner geändert oder widerrufen werden. Rechtsgrundlage für den Einsatz optionaler Cookies ist Ihre Einwilligung gemäß Art. 6 Abs. 1 lit. a DSGVO."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "8",
+    "title": "Speicherdauer",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Personenbezogene Daten werden nur so lange gespeichert, wie es zur Erfüllung des jeweiligen Verarbeitungszwecks erforderlich ist oder wie es gesetzliche Aufbewahrungspflichten vorschreiben."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Daten aus Kontaktanfragen werden nach vollständiger Bearbeitung des Anliegens gelöscht, sofern keine gesetzlichen Aufbewahrungsfristen bestehen (z. B. nach HGB oder AO bis zu 10 Jahre). Technische Zugriffsdaten, die durch den Hosting-Anbieter Vercel erhoben werden, werden gemäß der Aufbewahrungsrichtlinie von Vercel verarbeitet und gelöscht."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "9",
+    "title": "Ihre Rechte als betroffene Person",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Sie haben gemäß DSGVO folgende Rechte gegenüber uns hinsichtlich der Sie betreffenden personenbezogenen Daten:"
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "– Recht auf Auskunft (Art. 15 DSGVO)\n– Recht auf Berichtigung unrichtiger Daten (Art. 16 DSGVO)\n– Recht auf Löschung (Art. 17 DSGVO)\n– Recht auf Einschränkung der Verarbeitung (Art. 18 DSGVO)\n– Recht auf Datenübertragbarkeit (Art. 20 DSGVO)\n– Widerspruchsrecht gegen die Verarbeitung (Art. 21 DSGVO)\n– Recht auf Widerruf einer erteilten Einwilligung mit Wirkung für die Zukunft (Art. 7 Abs. 3 DSGVO)"
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: labrity@web.de, tonn_andreas@web.de"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "10",
+    "title": "Beschwerderecht bei der Aufsichtsbehörde",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Unbeschadet eines anderweitigen verwaltungsrechtlichen oder gerichtlichen Rechtsbehelfs steht Ihnen das Recht zu, sich bei einer Datenschutz-Aufsichtsbehörde zu beschweren, wenn Sie der Ansicht sind, dass die Verarbeitung Ihrer personenbezogenen Daten gegen die DSGVO verstößt (Art. 77 DSGVO)."
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Die für uns zuständige Aufsichtsbehörde ist:\nLandesbeauftragte für Datenschutz und Informationsfreiheit Nordrhein-Westfalen (LDI NRW)\nKavalleriestraße 2–4\n40213 Düsseldorf\nWebsite: ldi.nrw.de"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "_id": "11",
+    "title": "Datenschutzkontakt",
+    "description": [
+      {
+        "children": [
+          {
+            "text": "Bei Fragen zum Datenschutz, zur Ausübung Ihrer Rechte oder zur Löschung Ihrer Daten wenden Sie sich bitte direkt an uns:"
+          }
+        ]
+      },
+      {
+        "children": [
+          {
+            "text": "Labrity – Andreas Tonn\nE-Mail: labrity@web.de, tonn_andreas@web.de\nTelefon: +49 174 345 44 19"
+          }
+        ]
+      }
+    ]
+  }
+]

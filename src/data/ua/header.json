@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "href": "/portfolio",
+    "title": "Проєкти"
+  },
+  {
+    "id": 2,
+    "href": "/services",
+    "title": "Послуги"
+  },
+  {
+    "id": 3,
+    "href": "/prices",
+    "title": "Ціни"
+  },
+  {
+    "id": 4,
+    "href": "/process",
+    "title": "Процес"
+  },
+  {
+    "id": 5,
+    "href": "/contact",
+    "title": "Контакт"
+  }
+]

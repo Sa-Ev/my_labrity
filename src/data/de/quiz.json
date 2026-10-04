@@ -1,0 +1,122 @@
+{
+  "quiz": {
+    "progress": "Frage",
+    "next": "Weiter",
+    "submit": "Senden",
+    "form": {
+      "kicker": "Kontakt",
+      "title": "Kontaktdaten",
+      "description": "Bitte geben Sie Ihre Kontaktdaten ein",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "phone": "Telefonnummer",
+      "email": "E-Mail",
+      "success": "Anfrage erfolgreich gesendet",
+      "error": "Fehler beim Senden",
+      "required": "Pflichtfeld",
+      "invalidEmail": "Ungültige E-Mail-Adresse",
+      "invalidPhone": "Ungültige Telefonnummer",
+      "privacyLabel": "Ich stimme der Verarbeitung meiner personenbezogenen Daten gemäß der ",
+      "privacyLinkLabel": "Datenschutzerklärung",
+      "privacyRequired": "Bitte bestätigen Sie die Datenschutzerklärung."
+    },
+    "result": {
+      "title": "Vielen Dank für Ihre Anfrage",
+      "subtitle": "Ihre Angaben wurden erfolgreich übermittelt.",
+
+      "pdfDate": "Datum:",
+      "pdfIntro": "Dieses Dokument enthält eine erste Übersicht Ihres Projekts auf Grundlage der von Ihnen gemachten Angaben.",
+
+      "contactTitle": "Kontaktdaten",
+
+      "summaryTitle": "Ihre Projektanfrage",
+
+      "estimateTitle": "Empfohlenes Projektbudget",
+      "estimateNote": "Basierend auf Ihren Angaben liegt der voraussichtliche Projektumfang ab dem unten genannten Betrag. Die endgültige Kalkulation erfolgt nach einer detaillierten Analyse Ihrer Anforderungen.",
+
+      "nextTitle": "Wie geht es weiter?",
+
+      "nextText": "Wir prüfen Ihre Anfrage und melden uns in der Regel innerhalb von 24 Stunden bei Ihnen. Anschließend besprechen wir die Anforderungen im Detail und erstellen ein individuelles Angebot.",
+
+      "pdfContactTitle": "Kontakt zu uns",
+
+      "downloadPdf": "PDF herunterladen",
+      "estimateFrom": "ab",
+      "close": "Fenster schließen"
+    },
+    "questions": [
+      {
+        "id": "websiteType",
+        "title": "Welche Art von Website benötigen Sie?",
+        "options": [
+          "Einfache Präsentationsseite",
+          "Unternehmenswebsite",
+          "Onlineshop",
+          "Individuelle Lösung",
+          "Nicht sicher"
+        ]
+      },
+      {
+        "id": "clientType",
+        "title": "Für wen wird die Website erstellt?",
+        "options": [
+          "Privatperson",
+          "Freelancer / Selbstständig",
+          "Kleinunternehmen",
+          "Unternehmen",
+          "Nicht sicher"
+        ]
+      },
+      {
+        "id": "content",
+        "title": "Haben Sie bereits Texte oder Bilder für die Website?",
+        "options": [
+          "Ja, alles vorhanden",
+          "Teilweise vorhanden",
+          "Benötige Unterstützung bei Inhalten",
+          "Nicht sicher"
+        ]
+      },
+      {
+        "id": "languages",
+        "title": "In wie vielen Sprachen soll die Website verfügbar sein?",
+        "options": [
+          "Nur eine Sprache",
+          "Zwei Sprachen",
+          "Drei oder mehr Sprachen",
+          "Nicht sicher"
+        ]
+      },
+      {
+        "id": "design",
+        "title": "Benötigen Sie Unterstützung beim Design der Website?",
+        "options": [
+          "Design bereits vorhanden",
+          "Neues Design erforderlich",
+          "Bestehende Website modernisieren",
+          "Nicht sicher"
+        ]
+      },
+      {
+        "id": "features",
+        "multiple": true,
+        "title": "Welche Funktionen soll die Website haben?",
+        "options": [
+          "Kontaktformular",
+          "Online-Terminbuchung",
+          "Preisrechner",
+          "Verbindung mit anderen Systemen",
+          "Persönlicher Kundenbereich",
+          "Nicht sicher"
+        ]
+      }
+    ],
+    "modal": {
+      "kicker": "Projekt-Kalkulator",
+      "title": "Erzählen Sie uns kurz von Ihrem Projekt.",
+      "description": "Ein paar kurze Fragen helfen uns, Ihr Vorhaben besser einzuschätzen.",
+      "note": "Transparent. Persönlich. Unverbindlich.",
+      "close": "Quiz schließen"
+    }
+  }
+}

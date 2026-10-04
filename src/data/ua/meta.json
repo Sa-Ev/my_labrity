@@ -1,0 +1,45 @@
+{
+  "title": "Labrity – Професійні сайти для бізнесу та підприємців",
+
+  "description": "Сучасні сайти для малого бізнесу, підприємців та сфери послуг у Німеччині. Професійно, переконливо та для нових клієнтів.",
+
+  "keywords": "Labrity, створення сайту, професійний сайт, сайт для бізнесу, сайт для підприємців, вебдизайн Німеччина",
+
+  "icons": [
+    { "url": "/meta/favicon.ico" },
+    {
+      "url": "/meta/favicon-16x16.png",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "url": "/meta/favicon-32x32.png",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+
+  "manifest": "/meta/site.webmanifest",
+
+  "openGraph": {
+    "type": "website",
+    "url": "https://labrity.com",
+
+    "title": "Labrity – Професійні сайти для бізнесу",
+
+    "description": "Сучасні сайти для бізнесу, підприємців та сфери послуг у Німеччині.",
+
+    "siteName": "Labrity",
+
+    "images": [
+      {
+        "url": "https://labrity.com/meta/opengraph-image.jpg",
+        "width": 1200,
+        "height": 630,
+        "alt": "Labrity – Професійні сайти"
+      }
+    ]
+  }
+}

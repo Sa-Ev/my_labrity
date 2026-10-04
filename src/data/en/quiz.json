@@ -1,0 +1,122 @@
+{
+  "quiz": {
+    "progress": "Question",
+    "next": "Next",
+    "submit": "Send",
+    "form": {
+      "kicker": "Contact",
+      "title": "Contact details",
+      "description": "Please fill in your contact details",
+      "firstName": "First name",
+      "lastName": "Last name",
+      "phone": "Phone number",
+      "email": "Email",
+      "success": "Request sent successfully",
+      "error": "Failed to send request",
+      "required": "Required field",
+      "invalidEmail": "Invalid email address",
+      "invalidPhone": "Invalid phone number",
+      "privacyLabel": "I agree to the processing of my personal data in accordance with the ",
+      "privacyLinkLabel": "Privacy Policy",
+      "privacyRequired": "Please confirm the privacy policy."
+    },
+    "result": {
+      "title": "Thank you for your request",
+      "subtitle": "Your information has been successfully submitted.",
+
+      "pdfDate": "Date:",
+      "pdfIntro": "This document provides an initial overview of your project based on the information you provided.",
+
+      "contactTitle": "Contact Information",
+
+      "summaryTitle": "Your Project Request",
+
+      "estimateTitle": "Estimated Project Budget",
+      "estimateNote": "Based on the information provided, the estimated project scope starts from the amount shown below. The final quotation will be prepared after a detailed analysis of your requirements.",
+
+      "nextTitle": "What happens next?",
+
+      "nextText": "We will review your request and usually get back to you within 24 hours. After that, we will discuss your requirements in detail and prepare a personalized proposal.",
+
+      "pdfContactTitle": "Contact Us",
+
+      "downloadPdf": "Download PDF",
+      "estimateFrom": "from",
+      "close": "Close Window"
+    },
+    "questions": [
+      {
+        "id": "websiteType",
+        "title": "What type of website do you need?",
+        "options": [
+          "Simple presentation website",
+          "Business website",
+          "Online store",
+          "Custom solution",
+          "Not sure"
+        ]
+      },
+      {
+        "id": "clientType",
+        "title": "Who is this website for?",
+        "options": [
+          "Private person",
+          "Freelancer / Self-employed",
+          "Small business",
+          "Company",
+          "Not sure"
+        ]
+      },
+      {
+        "id": "content",
+        "title": "Do you already have texts or images for the website?",
+        "options": [
+          "Yes, everything is ready",
+          "Partially ready",
+          "Need help with content",
+          "Not sure"
+        ]
+      },
+      {
+        "id": "languages",
+        "title": "How many languages should the website support?",
+        "options": [
+          "One language",
+          "Two languages",
+          "Three or more languages",
+          "Not sure"
+        ]
+      },
+      {
+        "id": "design",
+        "title": "Do you need help with the website design?",
+        "options": [
+          "Design already exists",
+          "Need a new design",
+          "Redesign existing website",
+          "Not sure"
+        ]
+      },
+      {
+        "id": "features",
+        "multiple": true,
+        "title": "What features would you like on the website?",
+        "options": [
+          "Contact form",
+          "Online appointment booking",
+          "Price calculator",
+          "Connection with other services",
+          "Client account area",
+          "Not sure"
+        ]
+      }
+    ],
+    "modal": {
+      "kicker": "Project calculator",
+      "title": "Tell us briefly about your project.",
+      "description": "A few short questions help us understand your project better.",
+      "note": "Transparent. Personal. Non-binding.",
+      "close": "Close quiz"
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Labrity – Professionelle Websites für Unternehmen & Selbstständige in Deutschland",
+
+  "description": "Moderne Websites für kleine Unternehmen, Selbstständige und Dienstleister in Deutschland. Professionell, überzeugend und bereit für neue Kunden.",
+
+  "keywords": "Labrity, Website erstellen lassen, professionelle Website, Website für Unternehmen, Website für Selbstständige, Webdesign Deutschland, Firmenwebsite, Homepage erstellen lassen",
+
+  "icons": [
+    { "url": "/meta/favicon.ico" },
+    {
+      "url": "/meta/favicon-16x16.png",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "url": "/meta/favicon-32x32.png",
+      "rel": "icon",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+
+  "manifest": "/meta/site.webmanifest",
+
+  "openGraph": {
+    "type": "website",
+    "url": "/",
+
+    "title": "Labrity – Professionelle Websites für Unternehmen",
+
+    "description": "Moderne Websites für kleine Unternehmen, Selbstständige und Dienstleister in Deutschland.",
+
+    "siteName": "Labrity",
+
+    "images": [
+      {
+        "url": "/meta/opengraph-image.jpg",
+        "width": 1200,
+        "height": 630,
+        "alt": "Labrity – Moderne Websites für Unternehmen"
+      }
+    ]
+  }
+}
